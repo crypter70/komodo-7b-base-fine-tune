@@ -6,3 +6,6 @@ torchvision
 torchaudio
 scikit-learn
 transformers
+datasets
+evaluate
+transformers[sentencepiece]
