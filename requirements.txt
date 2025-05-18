@@ -1,0 +1,8 @@
+pandas
+ipykernel
+numpy
+torch
+torchvision
+torchaudio
+scikit-learn
+transformers
