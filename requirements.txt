@@ -9,3 +9,5 @@ transformers
 datasets
 evaluate
 transformers[sentencepiece]
+transformers[torch]
+ipywidgets
