@@ -1,0 +1,9 @@
+fastapi
+fastapi[standard]
+uvicorn
+qdrant_client
+PyPDF2
+openai
+sentence-transformers
+numpy
+python-dotenv
